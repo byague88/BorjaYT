@@ -17,6 +17,6 @@ botonborrar.addEventListener("click", ()=>{
         icon: "error",
         title: "Oops...",
         text: "Empecemos de nuevo",
-        footer: '<a href="#">Por qué no empiezas de nuevo?</a>'
+        footer: '<a href="#">Vuelve a escribirlo</a>'
       });
 });
